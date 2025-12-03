@@ -1,4 +1,4 @@
-![Banner arriba](icon1.gif)
+![Banner arriba](icon2.gif)
 # Sobre mi u.u:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut cursus aliquet ex, eget vestibulum nisl malesuada vitae. Cras eu nulla eget neque accumsan pulvinar eget a nunc. Aliquam condimentum velit eget arcu sollicitudin, eu porta libero sollicitudin. Vestibulum pellentesque nisi sed ligula semper semper. Pellentesque venenatis auctor massa in venenatis. Morbi tempor ante bibendum ultricies auctor. Nam euismod placerat felis eget mattis. Praesent ut neque ut turpis dapibus dapibus.
 
@@ -9,4 +9,4 @@ Nunc malesuada pulvinar dolor eu ultrices. Vestibulum mattis posuere aliquam. Fu
 In arcu quam, pharetra a sapien eu, aliquam tempus dui. Nam eu sodales urna, nec sodales nunc. Nam sagittis arcu nec egestas rhoncus. Phasellus lobortis suscipit euismod. Sed bibendum laoreet sapien, in gravida nisi tincidunt at. Duis viverra tortor vulputate vestibulum accumsan. Nullam tristique neque massa. Nunc ac tristique erat.
 
 Nam eget egestas dolor. Sed nec arcu lobortis, placerat dolor at, efficitur erat. Vivamus hendrerit sollicitudin porta. Aliquam auctor eget eros vitae malesuada. Nam placerat odio id sapien viverra ultricies. Suspendisse eu orci mauris. Nulla nibh lectus, egestas porta orci vitae, congue volutpat purus. Aliquam erat volutpat. In dui dolor, ultricies a placerat eu, finibus eu leo. Aliquam sit amet eleifend arcu, ut egestas ex. Nullam ante tellus, molestie et eleifend non, pulvinar in nibh. 
-![Banner abajo](icon2.gif)
+![Banner abajo](icon1.mp4)

@@ -13,4 +13,9 @@
 Soy un estudiante de programacion sin algo en especial
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/616joha.n) 
+
+
 ![Banner abajo](icon1.jpg)
+

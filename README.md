@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-    ![Banner arriba](icon2.gif)
+  <img src="icon2.gif" width="400" />
 </p>
+
 
 # Sobre mi u.u:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut cursus aliquet ex, eget vestibulum nisl malesuada vitae. Cras eu nulla eget neque accumsan pulvinar eget a nunc. Aliquam condimentum velit eget arcu sollicitudin, eu porta libero sollicitudin. Vestibulum pellentesque nisi sed ligula semper semper. Pellentesque venenatis auctor massa in venenatis. Morbi tempor ante bibendum ultricies auctor. Nam euismod placerat felis eget mattis. Praesent ut neque ut turpis dapibus dapibus.

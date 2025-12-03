@@ -3,9 +3,9 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&width=435&lines=Si+escribiera+una+historia+conmigo+;en+el+papel+principal%2C+sin+duda+;ser%C3%ADa%E2%80%A6+una+tragedia(https://git.io/typing-svg)" /></a>
 </p>
 
-
-![Banner arriba](icon2.gif)
-
+<p align="center">
+    ![Banner arriba](icon2.gif)
+</p>
 
 # Sobre mi u.u:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut cursus aliquet ex, eget vestibulum nisl malesuada vitae. Cras eu nulla eget neque accumsan pulvinar eget a nunc. Aliquam condimentum velit eget arcu sollicitudin, eu porta libero sollicitudin. Vestibulum pellentesque nisi sed ligula semper semper. Pellentesque venenatis auctor massa in venenatis. Morbi tempor ante bibendum ultricies auctor. Nam euismod placerat felis eget mattis. Praesent ut neque ut turpis dapibus dapibus.

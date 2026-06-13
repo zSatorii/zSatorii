@@ -1,21 +1,35 @@
-<h2 align="center">Hola, Soy Yuuki 👋</h2>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&width=435&lines=Si+escribiera+una+historia+conmigo+;en+el+papel+principal%2C+sin+duda+;ser%C3%ADa%E2%80%A6+una+tragedia" /></a>
-</p>
+# Hola soy Yuuki 👋
 
 <p align="center">
-  <img src="icon2.gif" width="400" height="1000" />
+  <img src="Icon1.gif" alt="Banner Principal" width="100%">
 </p>
 
+## Sobre Mí 💬 :
 
-# Sobre mi u.u:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=740000&width=435&lines=Las+palabras+bonitas;no+pueden+cambiar+el+mundo.)](https://git.io/typing-svg)
 
-Soy un estudiante de programacion sin algo en especial
+---
 
+### 📚 Lo que estoy aprendiendo:
+* ✨ Programacion en general
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/616joha.n) 
+### 🎮 Hobbies:
+* ✨ Videojuegos
+* ✨ Ver Anime
+* ✨ Escuchar Música
 
+<p align="center">
+  <img src="Icon2.gif" alt="Segundo GIF" width="80%">
+</p>
 
-![Banner abajo](icon1.jpg)
+---
 
+## Lenguajes & Herramientas 🤷‍♂️ 🛠️:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/PlayStation-003087?style=for-the-badge&logo=playstation&logoColor=white" alt="PS">
+</p>

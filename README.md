@@ -20,7 +20,7 @@ Soy un estudiante de Programacion
 * ✨ Escuchar Música
 
 <p align="center">
-  <img src="Icon2.gif" alt="Segundo GIF" width="100%">
+  <img src="Icon2.gif" alt="Segundo GIF" width="80%">
 </p>
 
 ---

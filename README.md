@@ -4,9 +4,10 @@
   <img src="Icon1.gif" alt="Banner Principal" width="100%">
 </p>
 
-## Sobre Mí 💬 :
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=740000&width=435&lines=Las+palabras+bonitas;no+pueden+cambiar+el+mundo.)](https://git.io/typing-svg)
+
+## Sobre Mí 💬 :
+Soy un estudiante de Programacion
 
 ---
 
